@@ -8,8 +8,7 @@
 ### 🚀 About Me:
 - 🎓 B.Tech in Computer Science, DCE Darbhanga  
 - 💡 Interested in AI, ML, Computer Vision & Web Apps  
-- 🧠 Currently learning **Deep Learning & Model Deployment**  
-- 🌐 Portfolio: [Your Website or GitHub Pages Link]  
+- 🧠 Currently learning **Deep Learning & Model Deployment** 
 - 📫 How to reach me: **starloardgaurav@gmail.com**
 
 ---
