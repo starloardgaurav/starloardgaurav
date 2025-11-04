@@ -15,9 +15,8 @@
 ---
 
 ### 🌍 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/YOUR-LINK)
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@YOUR-CHANNEL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/starloardgaurav/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/_gauravkumarthakur_)
 [![Gmail](https://img.shields.io/badge/Email-D44638?logo=gmail&logoColor=white)](mailto:starloardgaurav@gmail.com)
 
 ---
