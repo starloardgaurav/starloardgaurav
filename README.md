@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">👋 Hi, I'm Gaurav Kumar</h1>
-<h3 align="center">💻 Machine Learning Engineer | Flutter Developer | AI Enthusiast</h3>
+<h3 align="center">💻 Machine Learning Engineer | AI Enthusiast</h3>
 
 ---
 
